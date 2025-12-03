@@ -172,7 +172,9 @@ The detected landmark data plays a crucial role in training machine learning mod
 - The accuracy of yoga pose detection may need improvement
 
 ## Demo Video
-
+```
+https://youtu.be/OWf7WwYC-y0
+```
 
 ## Libraries
 
